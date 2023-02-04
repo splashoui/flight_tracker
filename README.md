@@ -1,4 +1,4 @@
-# Flights Information Tracker & Analysis
+# ✈️ Flights Information Tracker & Analysis ✈️
 
 This project were created to do the following steps. 
 
