@@ -1,4 +1,4 @@
-# flight_tracker
+# Flights Information Tracker & Analysis
 
 This project were created to do the following steps. 
 
